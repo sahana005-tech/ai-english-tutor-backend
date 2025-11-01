@@ -4,7 +4,7 @@ gtts
 pydub
 transformers
 torch
-whisper
+openai-whisper
 python-multipart
 sqlalchemy
 pydantic
