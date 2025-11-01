@@ -1,2 +1,13 @@
 fastapi
-uvicorn
+uvicorn[standard]
+gtts
+pydub
+transformers
+torch
+whisper
+python-multipart
+sqlalchemy
+pydantic
+python-dotenv
+alembic
+aiofiles
